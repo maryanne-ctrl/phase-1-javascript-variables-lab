@@ -1,2 +1,8 @@
 // Code your solution in this file!
-// first test 
+const companyName = 'Scuber';
+
+const  newcompanyName  = companyName;
+
+let mostProfitableNeighborhood = 'Chelsea';
+
+let companyCeo = 'Susan Smith';
